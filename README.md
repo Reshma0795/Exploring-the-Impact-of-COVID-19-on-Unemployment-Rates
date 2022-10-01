@@ -9,11 +9,11 @@ The dataset has been taken from source: https://thecleverprogrammer.com/2021/07/
 
 Description of the data:
 
-Region: The region the data belongs to
-Date: Date on which data was captured
-Frequency - The frequency of occurence 
-Estimated Unemployment Rate (%) - The estimated percentage of unemployment rate
-Estimated Employed - The number of estimated employed people 
-Estimated Labour Participation Rate (%) - The estimated percentage of labour participation
-Latitude - Latitude of the area
-Longitude - Longitude of the area
+- Region: The region the data belongs to
+- Date: Date on which data was captured
+- Frequency - The frequency of occurence 
+- Estimated Unemployment Rate (%) - The estimated percentage of unemployment rate
+- Estimated Employed - The number of estimated employed people 
+- Estimated Labour Participation Rate (%) - The estimated percentage of labour participation
+- Latitude - Latitude of the area
+- Longitude - Longitude of the area
