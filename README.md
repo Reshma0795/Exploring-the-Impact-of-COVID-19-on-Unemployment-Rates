@@ -1,4 +1,4 @@
-# Unemployment-Rate-Analysis-in-Python
+# Exploring the Impact of COVID-19 on Unemployment Rates
 
 In this project I will be analyzing unemployment rate in Python.
 
